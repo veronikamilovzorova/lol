@@ -1,0 +1,13 @@
+Albania-Tirana
+Andorra-Andorra la Vella
+Armenia-Yerevan
+Azerbaijan-Baku
+Austria-Vienna
+Belgium-Brussesls
+Bosnia and Herzegovina-Sarajevo
+Bulgaria-Sofia
+Estonia-Tallinn
+Georgia-Tbilisi
+Spain-Kopa
+Croatia-Zagreb
+Ireland-Dublin
